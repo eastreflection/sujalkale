@@ -4,17 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sujal Kale - Personal Website</title>
-    <style>
-        .under-development {
-            color: red;
-            font-weight: bold;
-        }
-    </style>
+<style>
+    .under-development {
+        color: red;
+        font-weight: bold;
+    }
+</style>
 </head>
 <body>
     <h1>Sujal Kale - Personal Website 🚧</h1>
     <p><strong>🚀 Welcome to my Personal Website! Please note that the site is still under development. 🚧</strong></p>
-    <p class="under-development">Hey there! I'm Sujal Kale, and I'm excited to share my personal website with you. This website is a platform where I'll be showcasing my portfolio, sharing my thoughts, and giving you a glimpse into my journey. While the site is a work in progress, feel free to explore what's already available.</p>
+    <p class="under-development">
+        Hey there! I'm Sujal Kale, and I'm excited to share my personal website with you. This website is a platform where I'll be showcasing my portfolio, sharing my thoughts, and giving you a glimpse into my journey. While the site is a work in progress, feel free to explore what's already available.</p>
     
 <h2>Visit the Website</h2>
 <p><a href="URL">Check out my Personal Website here</a></p>
